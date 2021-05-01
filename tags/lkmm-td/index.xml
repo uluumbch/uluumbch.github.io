@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>LKMM-TD on Bachrul Uluum</title>
+    <link>https://uluumbch.github.io/tags/lkmm-td/</link>
+    <description>Recent content in LKMM-TD on Bachrul Uluum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>uluum123@gmail.com (Bachrul Uluum)</managingEditor>
+    <webMaster>uluum123@gmail.com (Bachrul Uluum)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 May 2021 17:15:53 +0700</lastBuildDate>
+    
+        <atom:link href="https://uluumbch.github.io/tags/lkmm-td/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>UKM DAY DAN MATERI LKMM</title>
+        <link>https://uluumbch.github.io/posts/ukm-day-dan-materi-lkmm/</link>
+        <pubDate>Sat, 01 May 2021 17:15:53 +0700</pubDate>
+        <author>uluum123@gmail.com (Bachrul Uluum)</author>
+        <atom:modified>Sat, 01 May 2021 17:15:53 +0700</atom:modified>
+        <guid>https://uluumbch.github.io/posts/ukm-day-dan-materi-lkmm/</guid>
+        <description>-- Opening Ceremony Rangkaian acara pertama di LKMM-TD Fakultas Teknik tahun 2021 adalah Opening Ceremony lalu dilanjut dengan UKM Day dan Materi LKMM. Acara pada tahun ini dilakukan secara online melalui aplikasi ZOOM Meeting
+LKMM-TD 2021 secara resmi dibuka oleh dekan fakultas teknik Dr. Bani Noor Muchamad, S.T., M.T. pada tanggal 1 Mei 2021. Beliau berpesan kepada para peserta LKMM-TD kali ini untuk dapat mengikuti seluruh rangkaian acara hingga yang terakhir.</description>
+        
+        <dc:creator>Bachrul Uluum</dc:creator>
+        <media:content url="https://uluumbch.github.ioimages/opening-lkmm-td-2021/LKMM-TD-DAY-1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>LKMM-TD</category>
+            
+          
+        
+        
+          
+            
+              <category>LKMM-TD</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
