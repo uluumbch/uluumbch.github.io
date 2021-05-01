@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Bachrul Uluum</title>
+    <link>https://uluumbch.github.io/tags/</link>
+    <description>Recent content in Tags on Bachrul Uluum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>uluum123@gmail.com (Bachrul Uluum)</managingEditor>
+    <webMaster>uluum123@gmail.com (Bachrul Uluum)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 May 2021 17:15:53 +0700</lastBuildDate>
+    
+        <atom:link href="https://uluumbch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>LKMM-TD</title>
+        <link>https://uluumbch.github.io/tags/lkmm-td/</link>
+        <pubDate>Sat, 01 May 2021 17:15:53 +0700</pubDate>
+        <author>uluum123@gmail.com (Bachrul Uluum)</author>
+        
+        <guid>https://uluumbch.github.io/tags/lkmm-td/</guid>
+        <description></description>
+        
+        <dc:creator>Bachrul Uluum</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
